@@ -20,6 +20,7 @@ import (
 	_ "cuelang.org/go/pkg/math"
 	_ "cuelang.org/go/pkg/math/bits"
 	_ "cuelang.org/go/pkg/net"
+	_ "cuelang.org/go/pkg/openapi"
 	_ "cuelang.org/go/pkg/path"
 	_ "cuelang.org/go/pkg/regexp"
 	_ "cuelang.org/go/pkg/strconv"
